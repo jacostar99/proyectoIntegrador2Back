@@ -12,11 +12,6 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-/**
-* @author Zathura Code Generator Version 9.0 http://zathuracode.org/
-* www.zathuracode.org
-* 
-*/
 @Entity
 @Table ( name="control", schema="public" )
 @Data
